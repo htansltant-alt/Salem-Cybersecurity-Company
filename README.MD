@@ -4,7 +4,7 @@ A relational database designed for a fictional cybersecurity company, **Salem**.
 
 > **Project type:** Academic project
 > **Database system:** MySQL
-> **Author:** Ali Abdulrahman Alghamdi – AI Diploma student, Al-Baha University
+> **Author:** Hattan Sultan Alghamdi - AI Diploma student, Al-Baha University
 
 ---
 
